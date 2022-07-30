@@ -1,3 +1,4 @@
+![PYTHON STOPWATCH 7_30_2022 9_29_43 PM](https://user-images.githubusercontent.com/110297209/181924762-5e138b8d-c0ec-442e-9a78-1298d03f142a.png)
 # Python-Stopwatch
 #This is a stopwatch created using tkinter and tkinter.ttk in Python Visual studio
 from tkinter import*
